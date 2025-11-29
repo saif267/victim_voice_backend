@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+faiss-cpu
+numpy
+pydantic
+python-dotenv
+openai
+langdetect
+pypdf
